@@ -1,0 +1,6 @@
+.container {
+    border: 1px dashed pink;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 15px;
+}
